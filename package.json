@@ -1,0 +1,17 @@
+{
+  "name": "Nuxtjs-Vuejs-i18n",
+  "version": "1.0.0",
+  "description": "nuxtjs vuejs i18n",
+  "author": "MedHanini",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
