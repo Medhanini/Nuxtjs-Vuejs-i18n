@@ -28,6 +28,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    { src: '~plugins/vue-i18n.js' }
   ],
   /*
   ** Nuxt.js dev-modules
